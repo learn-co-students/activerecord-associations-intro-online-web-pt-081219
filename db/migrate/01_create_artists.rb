@@ -7,3 +7,7 @@ class CreateArtists < ActiveRecord::Migration[4.2]
   end
 
 end
+
+
+
+#once everything is built dont forget to migrate the tables with rake db:migrate
